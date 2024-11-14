@@ -1,0 +1,9 @@
+.footer {
+  position: sticky;
+  bottom: 0;
+  background-color: #f1f1f1;
+  padding: 10px 0;
+  padding-left: 10px;
+  padding-right: 10px;
+  box-sizing: border-box;
+}
