@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bank-transactions-app/static/css/main.7827550a.css",
+    "main.js": "/bank-transactions-app/static/js/main.94316d5a.js",
+    "static/js/453.ae318173.chunk.js": "/bank-transactions-app/static/js/453.ae318173.chunk.js",
+    "index.html": "/bank-transactions-app/index.html",
+    "main.7827550a.css.map": "/bank-transactions-app/static/css/main.7827550a.css.map",
+    "main.94316d5a.js.map": "/bank-transactions-app/static/js/main.94316d5a.js.map",
+    "453.ae318173.chunk.js.map": "/bank-transactions-app/static/js/453.ae318173.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7827550a.css",
+    "static/js/main.94316d5a.js"
+  ]
+}
